@@ -27,3 +27,6 @@ def selectionSort(arr):
     return newArr
 
 print(selectionSort([5,3,6,2,10]))  # Output should be sorted from smallest -> largest
+import sys
+
+print(sys.executable)
